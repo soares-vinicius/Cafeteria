@@ -28,4 +28,4 @@ Responsividade: Design adaptável para proporcionar uma experiência consistente
 Parallax: Efeito parallax em seções de imagens para uma experiência visual envolvente.
 
 Desenvolvedor 👨‍💻
-Desenvolvido com paixão por Vinícius Soares. Todos os direitos reservados.☕🌟
+Desenvolvido por Vinícius Soares. Todos os direitos reservados.☕🌟
