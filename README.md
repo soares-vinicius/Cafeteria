@@ -20,6 +20,12 @@ Este repositório contém o código-fonte de uma página web incrível desenvolv
 
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+````
+1 - Abra o arquivo index.html em seu navegador para explorar a página.
+
+## Recursos Destacados 🌟
+Responsividade: Design adaptável para proporcionar uma experiência consistente em dispositivos móveis e desktops.
+Parallax: Efeito parallax em seções de imagens para uma experiência visual envolvente.
 
 Desenvolvedor 👨‍💻
 Desenvolvido com paixão por Vinícius Soares. Todos os direitos reservados.☕🌟
